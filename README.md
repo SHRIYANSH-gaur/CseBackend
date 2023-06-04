@@ -1,12 +1,8 @@
-# Memories App
-
-A Simple Memories App built on MERN Stack.
+# CSE - WEBSITE BACKEND
 
 ## Configuration
 
-Create .env file in root folder. Add the following configurations:
 
-- MongoURI - MongoDB Database URL
 
 ## Installation
 
